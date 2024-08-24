@@ -24,14 +24,16 @@ The project aims to create a robust data warehouse that stores extensive data on
   - `DataWarehouse.sln`: Visual Studio solution file for the project.
   - `DataWarehouse.dtproj`: Visual Studio project file for ETL operations.
   - `DataWarehouse.dtproj.user`: Contains user-specific configurations for the Visual Studio project.
- 
-  ![image](https://github.com/user-attachments/assets/6aaea544-476e-4a6e-8eb8-070e11456619)
-  Logical Schema of the Data Warehouse
-  ![image](https://github.com/user-attachments/assets/9d242ed6-7c85-47a5-9972-02bf250b458b)
-  ETL Overview
-  ![image](https://github.com/user-attachments/assets/02ea1cfd-787d-47ab-9a9c-43200fcb5e0e)
-  Control Flow
-  
+
+![Logical Schema of the Data Warehouse](https://github.com/user-attachments/assets/6aaea544-476e-4a6e-8eb8-070e11456619)
+*Logical Schema of the Data Warehouse*
+
+![ETL Overview](https://github.com/user-attachments/assets/9d242ed6-7c85-47a5-9972-02bf250b458b)
+*ETL Overview*
+
+![Control Flow](https://github.com/user-attachments/assets/02ea1cfd-787d-47ab-9a9c-43200fcb5e0e)
+*Control Flow*
+
 ## Data Warehouse Schema
 
 The data warehouse consists of several dimension tables and a central fact table:
